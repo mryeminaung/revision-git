@@ -4,3 +4,5 @@ h1.onclick = () => {
 };
 
 console.log("This is version 1.0");
+
+console.log("This is version 1.2.1");
