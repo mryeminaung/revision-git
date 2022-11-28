@@ -16,3 +16,12 @@ p {
 p:hover {
     color: red;
 }
+
+/* git stash test (git stash --include-untracked) */
+footer {
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: black;
+    text-align: center;
+}
